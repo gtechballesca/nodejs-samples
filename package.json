@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-samples",
+  "version": "1.0.0",
+  "description": "sample code for my training in nodejs",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtechballesca/nodejs-samples.git"
+  },
+  "keywords": [
+    "nodejs-samples"
+  ],
+  "author": "Gil Ballesca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtechballesca/nodejs-samples/issues"
+  },
+  "homepage": "https://github.com/gtechballesca/nodejs-samples#readme"
+}
