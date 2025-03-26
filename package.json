@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/gtechballesca/nodejs-samples/issues"
   },
-  "homepage": "https://github.com/gtechballesca/nodejs-samples#readme"
+  "homepage": "https://github.com/gtechballesca/nodejs-samples#readme",
+  "dependencies": {
+    "validator": "^13.15.0"
+  }
 }
